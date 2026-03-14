@@ -4,37 +4,30 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=a78bfa&center=true&width=600&lines=Building+AI+systems+that+think+%F0%9F%A7%A0;Turning+data+into+intelligence+%F0%9F%93%8A;Securing+systems+%7C+Ethical+Hacker+%F0%9F%94%90;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
 ---
-
+ 
 ## 💫 About Me
-
+ 
 ```python
 class Mubasher:
     name        = "Mubasher Chaudhary"
     username    = "CodewithMubasher"
     location    = "Pakistan 🇵🇰"
-    roles       = [
-                    "AI Engineer",
-                    "Data Scientist",
-                    "Backend Developer",
-                    "Ethical Hacker"
-                  ]
-    skills      = {
-                    "core"      : ["Python", "Machine Learning", "Deep Learning", "LLMs"],
-                    "data"      : ["Pandas", "NumPy", "Matplotlib", "Scikit-learn"],
-                    "backend"   : ["Flask", "FastAPI", "Node.js", "REST APIs"],
-                    "fullstack" : ["HTML", "CSS", "React (basics)", "Node.js"],
-                    "security"  : ["Ethical Hacking", "Penetration Testing", "Kali Linux"],
-                  }
-    currently   = "Building personal AI & Data Science projects"
-    open_to     = "Collaborations in AI, Data Science & Security"
-    email       = "follow.with.mubasher@gmail.com"
+    roles       = ["AI Engineer", "Data Scientist", "Backend Developer", "Ethical Hacker"]
+ 
+    # 🧠 Core Skills
+    ai_and_data = ["Python", "Machine Learning", "Deep Learning", "LLMs", "Pandas", "NumPy", "Scikit-learn"]
+    backend     = ["Flask", "FastAPI", "Node.js", "REST APIs", "MongoDB", "MySQL"]
+    fullstack   = ["HTML", "CSS", "React (basics)", "Node.js"]
+    security    = ["Ethical Hacking", "Penetration Testing", "Kali Linux", "Burp Suite"]
+ 
+    currently   = "Building personal AI & Data Science projects 🔨"
+    open_to     = "Collaborations in AI, Data Science & Cybersecurity 🤝"
+    email       = "follow.with.mubasher@gmail.com 📧"
     motto       = "Code it. Secure it. Ship it. 🚀"
 ```
-
+ 
 ---
-
 ## 🌐 Connect With Me
 
 <p align="left">
