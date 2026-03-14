@@ -7,16 +7,23 @@
 ---
  
 ## 💫 About Me
-> AI Engineer • Data Scientist • Backend Dev • Ethical Hacker — Pakistan 🇵🇰
+```bash
+┌──(mubasher㉿CodewithMubasher)-[~]
+└─$ whoami
+> AI Engineer | Data Scientist | Backend Dev | Ethical Hacker
 
-| Skill | Level |
-|-------|-------|
-| 🐍 Python | ████████████████████ 95% |
-| 🤖 AI / Machine Learning | ██████████████████░░ 90% |
-| 📊 Data Science | █████████████████░░░ 85% |
-| 🔧 Backend Development | ████████████████░░░░ 80% |
-| 🔐 Ethical Hacking | ███████████████░░░░░ 75% |
-| 🌐 Full Stack (Basics) | ████████████░░░░░░░░ 60% |
+┌──(mubasher㉿CodewithMubasher)-[~]
+└─$ cat skills.txt
+> Python • ML • Deep Learning • LLMs • Flask • FastAPI • Kali Linux
+
+┌──(mubasher㉿CodewithMubasher)-[~]
+└─$ cat status.txt
+> 🔨 Building AI projects | 🤝 Open to collabs | 📍 Pakistan
+
+┌──(mubasher㉿CodewithMubasher)-[~]
+└─$ echo $MOTTO
+> "Code it. Secure it. Ship it. 🚀"
+```
  
 ---
 ## 🌐 Connect With Me
