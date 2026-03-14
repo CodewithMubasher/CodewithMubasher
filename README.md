@@ -6,40 +6,18 @@
 </p>
 ---
  
-## 🚀 About Me
+## About Me
 
-<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+* 🤖 **AI Engineer** building intelligent & LLM-powered systems
+* 📈 **Data Scientist** turning data into actionable insights
+* 🛠 **Backend Developer** — Flask, FastAPI, REST APIs
+* 🛡 **Ethical Hacker** focused on security & penetration testing
 
-Hi, I'm **Mubasher** 👋
-
-I design and build **intelligent systems, secure backend architectures, and data-driven solutions**.
-My work sits at the intersection of **Artificial Intelligence, Data Science, and Cybersecurity**.
-
-### 🧠 What I Do
-
-* 🤖 Build **AI & LLM-powered applications**
-* 📊 Analyze and model data to generate **actionable insights**
-* 🔧 Develop scalable **APIs and backend systems**
-* 🔐 Perform **ethical hacking & security testing**
-
-### ⚙️ Tech Focus
-
-**AI / Data:** Python, Pandas, Scikit-Learn, TensorFlow, PyTorch
-**Backend:** Flask, FastAPI, REST APIs
-**Security:** Penetration Testing, Network Security, Vulnerability Assessment
-
-### 🌍 Current Journey
-
-* 🔨 Building **AI and Data Science projects**
-* 📚 Continuously learning **advanced AI systems**
-* 🤝 Open for **collaboration in AI, Data & Security**
-
-### 📫 Connect With Me
-
-📍 Pakistan 🇵🇰
+📍 Pakistan
 📧 [follow.with.mubasher@gmail.com](mailto:follow.with.mubasher@gmail.com)
 
-⚡ *“Turning ideas into intelligent and secure systems.”*
+💡 *Code it. Secure it. Ship it.*
+
 
  
 ---
