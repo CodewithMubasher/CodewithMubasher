@@ -8,24 +8,32 @@
  
 ## 💫 About Me
  
-```python
-class Mubasher:
-    name        = "Mubasher Chaudhary"
-    username    = "CodewithMubasher"
-    location    = "Pakistan 🇵🇰"
-    roles       = ["AI Engineer", "Data Scientist", "Backend Developer", "Ethical Hacker"]
+ <table>
+  <tr>
+    <td valign="top" width="50%">
  
-    # 🧠 Core Skills
-    ai_and_data = ["Python", "Machine Learning", "Deep Learning", "LLMs", "Pandas", "NumPy", "Scikit-learn"]
-    backend     = ["Flask", "FastAPI", "Node.js", "REST APIs", "MongoDB", "MySQL"]
-    fullstack   = ["HTML", "CSS", "React (basics)", "Node.js"]
-    security    = ["Ethical Hacking", "Penetration Testing", "Kali Linux", "Burp Suite"]
+### 👨‍💻 Who Am I?
+- 🧠 **AI Engineer** — building intelligent systems & LLM apps
+- 📊 **Data Scientist** — turning raw data into powerful insights
+- 🔧 **Backend Developer** — Flask, FastAPI, REST APIs & databases
+- 🔐 **Ethical Hacker** — penetration testing & cybersecurity
+- 🌐 **Full Stack (Basics)** — HTML, CSS, React, Node.js
+- 📍 Based in **Pakistan 🇵🇰**
  
-    currently   = "Building personal AI & Data Science projects 🔨"
-    open_to     = "Collaborations in AI, Data Science & Cybersecurity 🤝"
-    email       = "follow.with.mubasher@gmail.com 📧"
-    motto       = "Code it. Secure it. Ship it. 🚀"
-```
+    </td>
+    <td valign="top" width="50%">
+ 
+### 🚀 Quick Facts
+- 🔨 Currently building **AI & Data Science projects**
+- 🤝 Open to **collaborations** in AI, Data & Security
+- 🌱 Learning **LLMs, Advanced ML & System Design**
+- 💬 Ask me about **Python, ML, Hacking, APIs**
+- 📧 Reach me at **follow.with.mubasher@gmail.com**
+- ⚡ Motto: **"Code it. Secure it. Ship it."**
+ 
+    </td>
+  </tr>
+</table>
  
 ---
 ## 🌐 Connect With Me
