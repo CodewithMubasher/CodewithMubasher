@@ -7,33 +7,16 @@
 ---
  
 ## 💫 About Me
- 
- <table>
-  <tr>
-    <td valign="top" width="50%">
- 
-### 👨‍💻 Who Am I?
-- 🧠 **AI Engineer** — building intelligent systems & LLM apps
-- 📊 **Data Scientist** — turning raw data into powerful insights
-- 🔧 **Backend Developer** — Flask, FastAPI, REST APIs & databases
-- 🔐 **Ethical Hacker** — penetration testing & cybersecurity
-- 🌐 **Full Stack (Basics)** — HTML, CSS, React, Node.js
-- 📍 Based in **Pakistan 🇵🇰**
- 
-    </td>
-    <td valign="top" width="50%">
- 
-### 🚀 Quick Facts
-- 🔨 Currently building **AI & Data Science projects**
-- 🤝 Open to **collaborations** in AI, Data & Security
-- 🌱 Learning **LLMs, Advanced ML & System Design**
-- 💬 Ask me about **Python, ML, Hacking, APIs**
-- 📧 Reach me at **follow.with.mubasher@gmail.com**
-- ⚡ Motto: **"Code it. Secure it. Ship it."**
- 
-    </td>
-  </tr>
-</table>
+> AI Engineer • Data Scientist • Backend Dev • Ethical Hacker — Pakistan 🇵🇰
+
+| Skill | Level |
+|-------|-------|
+| 🐍 Python | ████████████████████ 95% |
+| 🤖 AI / Machine Learning | ██████████████████░░ 90% |
+| 📊 Data Science | █████████████████░░░ 85% |
+| 🔧 Backend Development | ████████████████░░░░ 80% |
+| 🔐 Ethical Hacking | ███████████████░░░░░ 75% |
+| 🌐 Full Stack (Basics) | ████████████░░░░░░░░ 60% |
  
 ---
 ## 🌐 Connect With Me
