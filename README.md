@@ -1,33 +1,37 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Mubasher&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%C2%B7%20Data%20Scientist%20%C2%B7%20Backend%20Dev%20%C2%B7%20Ethical%20Hacker&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Mubasher%20Chaudhary&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20%C2%B7%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Ethical%20Hacker&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI+systems+that+think;Turning+data+into+intelligence;Securing+systems+as+an+ethical+hacker;Always+learning%2C+always+shipping)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Mubasher+Chaudhary+|+Student+%26+Developer;Building+AI+systems+that+think;Turning+data+into+intelligence;Securing+systems+as+an+ethical+hacker;Always+learning%2C+always+shipping)
 
 <p>
   <a href="https://github.com/CodewithMubasher"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="mailto:follow.with.mubasher@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mubasherch_o1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/estix._mubasher/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 </div>
 
 <br/>
 
-## About
+## About Me
 
-- 🤖 **AI Engineer** — building intelligent, LLM-powered systems
-- 📊 **Data Scientist** — turning data into actionable insight
-- 🛠 **Backend Developer** — Flask, FastAPI, REST APIs
-- 🛡 **Ethical Hacker** — security & penetration testing
+I am **Mubasher Chaudhary**, a student and software developer based in **Islamabad, Pakistan**. I build intelligent applications, work on open-source repositories, and secure digital systems.
 
-📍 Pakistan &nbsp;·&nbsp; 📧 follow.with.mubasher@gmail.com &nbsp;·&nbsp; 💡 *Code it. Secure it. Ship it.*
+- 🎓 **Student & Developer** — Based in Islamabad, Pakistan
+- 🤖 **AI Engineer** — Building intelligent, LLM-powered systems & ML models
+- 📊 **Data Scientist** — Extracting actionable insights from data
+- 🛠 **Backend Developer** — Flask, FastAPI, REST APIs & database systems
+- 🛡 **Ethical Hacker** — Security assessments & penetration testing
+- 📜 **Certifications & Projects** — Continuously learning, earning developer certificates, and shipping open-source code
+
+📍 **Location:** Islamabad, Pakistan &nbsp;·&nbsp; 📧 **Email:** follow.with.mubasher@gmail.com &nbsp;·&nbsp; 💡 *Code it. Secure it. Ship it.*
 
 <br/>
 
-## Stack
+## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
