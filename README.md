@@ -75,27 +75,6 @@ I am **Mubasher Chaudhary**, a student and software developer based in **Islamab
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CodewithMubasher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithMubasher&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=CodewithMubasher&theme=tokyonight&hide_border=true" width="65%"/>
-
-</div>
-
-> **Not loading?** The stats above use the shared public `github-readme-stats.vercel.app` instance, which occasionally hits GitHub's API rate limit or goes down since it's used by thousands of profiles. If the cards stop rendering, deploy your own free copy in a few clicks: [github-readme-stats → Deploy on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance), then swap the domain in the image URLs above for your own.
-
-<br/>
-
-<div align="center">
-
-*⭐ Star the repos you find useful*
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 
 </div>
